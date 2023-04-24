@@ -31,5 +31,5 @@
     <p>This project is licensed under the MIT License. See the <a href="LICENSE" target="_new">LICENSE</a> file for more information.</p>
     <h2>Acknowledgments</h2>
     <p>I would like to thank Dr Ana Matran-Fernandez[amatra@essex.ac.uk] for providing the lab resources and support for this project.</p>
-    <p>Note: This work is part of Project Submission of CS-888 Data Science, University of Essex
+    <p>Note: This work is part of project submission of CS-888 Data Science, University of Essex
 </div>
